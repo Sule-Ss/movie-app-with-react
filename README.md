@@ -6,7 +6,7 @@
 
 # Deploy : 
 
-https://sule-ss.github.io/task-tracker/
+https://movieapp-react-sule.netlify.app/
 
 <h2 align="center">Happy Coding  ✍</h2>
 
